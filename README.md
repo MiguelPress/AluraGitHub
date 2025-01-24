@@ -5,3 +5,4 @@
 -Para instalar el proyecto, debes ejecutar:
 
 ```npm install react```
+Sistemas de registros 2
